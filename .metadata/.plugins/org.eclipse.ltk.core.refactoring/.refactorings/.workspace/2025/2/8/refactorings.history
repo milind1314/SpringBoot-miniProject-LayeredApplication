@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;iocproj1&apos; to &apos;iocproj01&apos;" description="Rename resource &apos;iocproj1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/iocproj1" name="iocproj01" stamp="1739946101399" updateReferences="true"/>
+</session>
