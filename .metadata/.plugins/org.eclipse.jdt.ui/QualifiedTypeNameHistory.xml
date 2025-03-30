@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.nt.sbeans.WishMessageGenerator"/>
-    <fullyQualifiedTypeName name="com.nt.sbeans.WishMessegeGeneratorSetter"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="com.nt.sbeans.DiscountCalculator"/>
-    <fullyQualifiedTypeName name="sbeans.WishMessageGenerator"/>
-    <fullyQualifiedTypeName name="sbeans.DatePrinter"/>
-    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
-    <fullyQualifiedTypeName name="java.text.DateFormat"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.nio.file.FileSystem"/>
     <fullyQualifiedTypeName name="com.nt.sbeans.PaymentService"/>
@@ -18,7 +9,6 @@
     <fullyQualifiedTypeName name="com.mi.sbeans.VehicleService"/>
     <fullyQualifiedTypeName name="com.mi.cnfig.AppConfig"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.ServiceCenter"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="java.awt.CardLayout"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.CarService"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
@@ -44,20 +34,30 @@
     <fullyQualifiedTypeName name="com.mi.factory.TransportationFactory"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.BlueDart"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.Icourier"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="com.mi.config.AppConfig"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.Flipkart"/>
     <fullyQualifiedTypeName name="java.sql.Time"/>
     <fullyQualifiedTypeName name="java.time.LocalTime"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.FileSystemXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.mi.sbeans.WishMessegeGenerator"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.SeasonFinder"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Engine"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Vehicle"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 </qualifiedTypeNameHistroy>
